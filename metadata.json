@@ -1,0 +1,6 @@
+{
+  "name": "VeriScan AI",
+  "description": "Professional-grade AI plagiarism and content detection system for students and researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Content Detection", "Semantic Plagiarism Analysis", "Detailed Reports"]
+}
